@@ -49,5 +49,3 @@ greenden/
 
 ---
 
-Let me know if you want to add badges (e.g. GitHub Pages deploy status), your logo, or if you want it written in a different tone (casual/professional/personal).
-
