@@ -6,12 +6,6 @@ Welcome to **Greenden**, a beautifully crafted plant store website that offers a
 
 ---
 
-## 📸 Screenshots
-
-![Greenden Homepage](./images/greenden_screenshot.png)
-
----
-
 ## 🛠️ Features
 
 - 🌱 Responsive and clean UI using Tailwind CSS
